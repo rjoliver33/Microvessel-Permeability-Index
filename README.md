@@ -1,5 +1,11 @@
 # Microvessel Permeability Index
 
+https://img.shields.io/github/issues/rjoliver33/Microvessel-Permeability-Index
+https://img.shields.io/github/forks/rjoliver33/Microvessel-Permeability-Index
+https://img.shields.io/github/stars/rjoliver33/Microvessel-Permeability-Index
+https://img.shields.io/github/license/rjoliver33/Microvessel-Permeability-Index
+https://img.shields.io/twitter/url?style=social
+
 Microvessel Permeability Index is a Python program for the analysis of .tif microscopy images to determine the level of colocalization between dextran (Red Channel) with microvessels (Green Channel). This program was designed for the analysis of unpublished data (Perales G, Oliver RJ, Gardiner AS. In Prep). This readme will be updated with the published manuscript when available. Please cite this manuscript if you use this program for your own peer reviewed manuscripts.
 
 ##Arguments
